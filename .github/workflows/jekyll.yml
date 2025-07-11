@@ -42,7 +42,6 @@ jobs:
         with:
           source: ./     # 默认根目录
           destination: ./_site
-          config: "_config.yml"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
