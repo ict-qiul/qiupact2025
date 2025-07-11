@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:       PACT 2025
-email:       danwong@ucr.edu # to be replaced by the web chair email
+title:       THIS_TITLE_SHOULD_BE_VISIBLE
+email:       qqq@ucr.edu # to be replaced by the web chair email
 description: >- # this means to ignore newlines until "baseurl:"
   The 34th International Conference on Parallel Architectures and Compilation Techniques (PACT) 2025
 baseurl:     "/qiupact2025" # the subpath of your site, e.g. /blog
