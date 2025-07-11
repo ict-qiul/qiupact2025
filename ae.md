@@ -17,7 +17,7 @@ PACT 2025’s artifact evaluation process will follow the [guidelines for artifa
 <!--More details of artifact submission will be posted shortly. -->
 
 
-**Artifact submissions will be due by July xxx, 2025**.
+**Artifact submissions will be due by August 8, 2025**.
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/checklist.md) and submit it to the [single-blind AE process](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
 
@@ -54,11 +54,11 @@ Note that your artifacts will receive the ACM "artifact available" badge **only 
 
 Write a brief abstract describing your artifact, the minimal hardware and software requirements, how it supports your paper, how it can be validated and what the expected result is. Do not forget to specify if you use any proprietary software or hardware! This abstract will be used by evaluators during artifact bidding to make sure that they have an access to appropriate hardware and software and have required skills.
 
-Submit the artifact abstract and the PDF of your paper with the Artifact Appendix attached using the PACT AE HotCRP website, [https://pact25ae.hotcrp.com/](https://pact25ae.hotcrp.com/). Artifact evaluation will go live on **July xxx, 2025**.
+Submit the artifact abstract and the PDF of your paper with the Artifact Appendix attached using the PACT AE HotCRP website, [https://pact25ae.hotcrp.com/](https://pact25ae.hotcrp.com/). Artifact evaluation will go live on **August 8, 2025**.
 
 ## Asking questions
 
-If you have questions or suggestions, do not hesitate to get in touch with the AE chairs: Huimin Cui [biswa AT cse DOT iitb DOT ac DOT in] or Gabriel Rodríguez Álvarez [bhagedorn AT nvidia DOT com].
+If you have questions or suggestions, do not hesitate to get in touch with the AE chairs: Huimin Cui [cuihm@ict.ac.cn] or Gabriel Rodríguez Álvarez [gabriel.rodriguez@udc.es].
 
 ##  Preparing your camera-ready paper
 
